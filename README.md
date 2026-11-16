@@ -1,3 +1,4 @@
-## Automations
+# Automations
 
-# AI-based Log Anomaly Detection using Python and Isolation Forest
+
+- ### AI-based Log Anomaly Detection using Python and Isolation Forest
